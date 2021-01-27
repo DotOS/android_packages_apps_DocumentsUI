@@ -38,7 +38,7 @@
     <color name="band_select_border">#44000000</color>
 
     <color name="downloads_icon_background">#ff4688f2</color>
-    <color name="app_icon_background">#ff4688f2</color>
+    <color name="app_icon_background">#F9A825</color>
     <color name="shortcut_foreground">#ff3367d6</color>
     <color name="shortcut_background">#fff5f5f5</color>
 
@@ -52,4 +52,6 @@
 
     <color name="doc_list_item_subtitle_enabled">#5F6368</color> <!-- Gray 700 -->
     <color name="doc_list_item_subtitle_disabled">#613c4043</color> <!-- 38% Grey800 -->
+
+    <color name="ic_launcher_background">#F9A825</color>
 </resources>
