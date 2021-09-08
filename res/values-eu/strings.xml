@@ -196,7 +196,7 @@
       <item quantity="one"><xliff:g id="COUNT_0">%1$d</xliff:g> elementu kopiatu da arbelean.</item>
     </plurals>
     <string name="file_operation_rejected" msgid="4301554203329008794">"Ez da onartzen hori egitea fitxategiarekin."</string>
-    <string name="file_operation_error" msgid="2234357335716533795">"Ezin da egin hori fitxategiarekin."</string>
+    <string name="file_operation_error" msgid="2234357335716533795">"Ezin izan da egin hori fitxategiarekin."</string>
     <string name="rename_error" msgid="6700093173508118635">"Ezin izan zaio aldatu izena dokumentuari"</string>
     <string name="menu_eject_root" msgid="9215040039374893613">"Atera"</string>
     <string name="notification_copy_files_converted_title" msgid="6916768494891833365">"Artxibo batzuk bihurtu dira"</string>
@@ -268,7 +268,7 @@
     <string name="anonymous_application" msgid="7633027057951625862">"Anonimoa"</string>
     <string name="open_tree_button" msgid="6402871398424497776">"Erabili karpeta hau"</string>
     <string name="open_tree_dialog_title" msgid="6339509533852318569">"<xliff:g id="DIRECTORY">%2$s</xliff:g> direktorioko fitxategiak atzitzeko baimena eman nahi diozu <xliff:g id="APPNAME">%1$s</xliff:g> aplikazioari?"</string>
-    <string name="open_tree_dialog_message" msgid="4120695398430659628">"<xliff:g id="APPNAME">%1$s</xliff:g> aplikazioak <xliff:g id="DIRECTORY">%2$s</xliff:g> direktorioan gordetako uneko eta etorkizuneko edukia atzitu ahalko du."</string>
+    <string name="open_tree_dialog_message" msgid="4120695398430659628">"<xliff:g id="APPNAME">%1$s</xliff:g> aplikazioak <xliff:g id="DIRECTORY">%2$s</xliff:g> direktorioan gordetako oraingo eta etorkizuneko edukia atzitu ahalko du."</string>
     <string name="directory_blocked_header_title" msgid="1164584889578740066">"Ezin da erabili karpeta hori"</string>
     <string name="directory_blocked_header_subtitle" msgid="2829150911849033408">"Pribatutasuna babesteko, aukeratu beste karpeta bat"</string>
     <string name="create_new_folder_button" msgid="8859613309559794890">"Sortu karpeta bat"</string>
